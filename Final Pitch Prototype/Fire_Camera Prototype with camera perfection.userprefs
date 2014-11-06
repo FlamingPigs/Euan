@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Xbox360_Controls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Lift_Me.cs" Line="26" Column="63" />
+      <File FileName="Assets\Scripts\Xbox360_Controls.cs" Line="46" Column="46" />
+      <File FileName="Assets\Scripts\NewAmIBurning.cs" Line="56" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
