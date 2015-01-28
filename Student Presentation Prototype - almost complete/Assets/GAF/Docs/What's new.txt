@@ -1,0 +1,9 @@
+GAF: Flash to Unity3D
+Version 3.11
+
+1) Possibility to change animation color.
+2) Stencil masks.
+3) Removed necessity to set ".NET 2.0" setting for mobile platforms.
+4) Fixed compilation issues with Windows Phone target platform.
+5) Shader fixes.
+6) Bugs fixes.
