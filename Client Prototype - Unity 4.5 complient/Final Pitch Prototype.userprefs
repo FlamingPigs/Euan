@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Xbox360_Controls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Xbox360_Controls.cs" Line="103" Column="7" />
+      <File FileName="Assets\Scripts\CoinPickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CoinSpawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WildFire.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NewAmIBurning.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WhatBetterToKillYouWith.cs" Line="37" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
